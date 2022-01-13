@@ -4,6 +4,7 @@ import os
 
 PROJECT_DIR = Path(__file__).resolve().parents[1]
 DATA_DIR = PROJECT_DIR / "data"
+FIGURE_DIR = PROJECT_DIR / "figures"
 
 def ensure_dir(file_path):
     """ create a safely nested folder
@@ -25,3 +26,10 @@ def ensure_dir(file_path):
             file_path.parent.mkdir(parents=True, exist_ok=True)
         else:
             file_path.mkdir(parents=True, exist_ok=True)
+
+import matplotlib.pyplot as plt
+def save_fig(loc):
+	plt.savefig(str(loc)+'.pdf',dpi=300, bbox_inches = 'tight',
+    pad_inches = 0)
+	plt.savefig(str(loc)+'.jpg',dpi=150, bbox_inches = 'tight',
+	    pad_inches = 0)
