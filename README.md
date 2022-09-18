@@ -1,6 +1,8 @@
 American postdoctoral salaries do not account for growing disparities in cost of living (paper)
 ==============================
 
+[!postdoc salary map](figures/RPP_map.png)
+
 ### Abstract
 
 The National Institute of Health (NIH) sets postdoctoral (postdoc) trainee stipend levels that many American institutions and investigators use as a basis for postdoc salaries. Although salary standards are held constant across universities, the cost of living in those universities' cities and towns vary widely. Across non-postdoc jobs, more expensive cities pay workers higher wages that scale with an increased cost of living. This work investigates the extent to which postdoc wages account for cost of living differences. 
