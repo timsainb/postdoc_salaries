@@ -1,0 +1,783 @@
+"MARPI Real Personal Income by MSA 1/"
+"(thousands of chained 2012 dollars)" 
+"Bureau of Economic Analysis" 
+"Metropolitan Statistical Area"
+"GeoFips","GeoName","LineCode","Description","2019"
+"00000","United States","1","Real personal income (thousands of chained (2012) dollars)",16879392905
+"00000","United States","2","Real per capita personal income (chained (2012) dollars) 2/",51424
+"00999","United States (Nonmetropolitan Portion) 3/","1","Real personal income (thousands of chained (2012) dollars)",2068077172
+"00999","United States (Nonmetropolitan Portion) 3/","2","Real per capita personal income (chained (2012) dollars) 2/",45541
+"10180","Abilene, TX (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",7972489
+"10180","Abilene, TX (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",46336
+"10420","Akron, OH (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",36673129
+"10420","Akron, OH (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",52131
+"10500","Albany, GA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",6496881
+"10500","Albany, GA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",44279
+"10540","Albany-Lebanon, OR (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",5451769
+"10540","Albany-Lebanon, OR (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",42018
+"10580","Albany-Schenectady-Troy, NY (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",49482976
+"10580","Albany-Schenectady-Troy, NY (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",56206
+"10740","Albuquerque, NM (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",39609090
+"10740","Albuquerque, NM (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",43146
+"10780","Alexandria, LA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",7262697
+"10780","Alexandria, LA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",47769
+"10900","Allentown-Bethlehem-Easton, PA-NJ (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",43750051
+"10900","Allentown-Bethlehem-Easton, PA-NJ (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",51833
+"11020","Altoona, PA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",5997799
+"11020","Altoona, PA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",49231
+"11100","Amarillo, TX (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",12820248
+"11100","Amarillo, TX (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",48369
+"11180","Ames, IA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",5548949
+"11180","Ames, IA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",44985
+"11260","Anchorage, AK (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",21980192
+"11260","Anchorage, AK (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",55461
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",20423639
+"11460","Ann Arbor, MI (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",55559
+"11500","Anniston-Oxford, AL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",4864296
+"11500","Anniston-Oxford, AL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",42818
+"11540","Appleton, WI (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",12945739
+"11540","Appleton, WI (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",54400
+"11700","Asheville, NC (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",21558413
+"11700","Asheville, NC (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",46595
+"12020","Athens-Clarke County, GA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",8948302
+"12020","Athens-Clarke County, GA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",41863
+"12060","Atlanta-Sandy Springs-Alpharetta, GA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",308166747
+"12060","Atlanta-Sandy Springs-Alpharetta, GA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",51187
+"12100","Atlantic City-Hammonton, NJ (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",12428833
+"12100","Atlantic City-Hammonton, NJ (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",47138
+"12220","Auburn-Opelika, AL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",7060087
+"12220","Auburn-Opelika, AL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",42908
+"12260","Augusta-Richmond County, GA-SC (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",27341907
+"12260","Augusta-Richmond County, GA-SC (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",44898
+"12420","Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",127605146
+"12420","Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",57297
+"12540","Bakersfield, CA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",35651845
+"12540","Bakersfield, CA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",39604
+"12580","Baltimore-Columbia-Towson, MD (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",155547853
+"12580","Baltimore-Columbia-Towson, MD (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",55552
+"12620","Bangor, ME (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",6196844
+"12620","Bangor, ME (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",40729
+"12700","Barnstable Town, MA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",14256017
+"12700","Barnstable Town, MA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",66933
+"12940","Baton Rouge, LA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",42903120
+"12940","Baton Rouge, LA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",50186
+"12980","Battle Creek, MI (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",5703077
+"12980","Battle Creek, MI (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",42510
+"13020","Bay City, MI (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",4812942
+"13020","Bay City, MI (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",46671
+"13140","Beaumont-Port Arthur, TX (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",18670469
+"13140","Beaumont-Port Arthur, TX (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",47560
+"13220","Beckley, WV (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",5623891
+"13220","Beckley, WV (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",48579
+"13380","Bellingham, WA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",10550857
+"13380","Bellingham, WA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",46024
+"13460","Bend, OR (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",9998894
+"13460","Bend, OR (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",50578
+"13740","Billings, MT (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",9537532
+"13740","Billings, MT (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",52500
+"13780","Binghamton, NY (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",10731423
+"13780","Binghamton, NY (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",44959
+"13820","Birmingham-Hoover, AL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",60552381
+"13820","Birmingham-Hoover, AL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",55530
+"13900","Bismarck, ND (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",7505839
+"13900","Bismarck, ND (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",58208
+"13980","Blacksburg-Christiansburg, VA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",6742583
+"13980","Blacksburg-Christiansburg, VA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",40247
+"14010","Bloomington, IL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",8532882
+"14010","Bloomington, IL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",49749
+"14020","Bloomington, IN (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",7371804
+"14020","Bloomington, IN (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",43561
+"14100","Bloomsburg-Berwick, PA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",3890157
+"14100","Bloomsburg-Berwick, PA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",46760
+"14260","Boise City, ID (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",35184815
+"14260","Boise City, ID (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",46963
+"14460","Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",315690584
+"14460","Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",64783
+"14500","Boulder, CO (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",21492412
+"14500","Boulder, CO (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",65888
+"14540","Bowling Green, KY (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",7215153
+"14540","Bowling Green, KY (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",40254
+"14740","Bremerton-Silverdale-Port Orchard, WA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",13502038
+"14740","Bremerton-Silverdale-Port Orchard, WA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",49736
+"14860","Bridgeport-Stamford-Norwalk, CT (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",93548505
+"14860","Bridgeport-Stamford-Norwalk, CT (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",99168
+"15180","Brownsville-Harlingen, TX (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",14144225
+"15180","Brownsville-Harlingen, TX (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",33425
+"15260","Brunswick, GA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",5326806
+"15260","Brunswick, GA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",44846
+"15380","Buffalo-Cheektowaga, NY (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",57364086
+"15380","Buffalo-Cheektowaga, NY (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",50855
+"15500","Burlington, NC (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",7163927
+"15500","Burlington, NC (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",42263
+"15540","Burlington-South Burlington, VT (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",11181436
+"15540","Burlington-South Burlington, VT (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",50730
+"15680","California-Lexington Park, MD (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",6337614
+"15680","California-Lexington Park, MD (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",55833
+"15940","Canton-Massillon, OH (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",19737106
+"15940","Canton-Massillon, OH (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",49651
+"15980","Cape Coral-Fort Myers, FL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",37728099
+"15980","Cape Coral-Fort Myers, FL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",48961
+"16020","Cape Girardeau, MO-IL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",4676340
+"16020","Cape Girardeau, MO-IL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",48327
+"16060","Carbondale-Marion, IL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",6254194
+"16060","Carbondale-Marion, IL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",46067
+"16180","Carson City, NV (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",2783141
+"16180","Carson City, NV (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",49774
+"16220","Casper, WY (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",5692847
+"16220","Casper, WY (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",71287
+"16300","Cedar Rapids, IA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",15072040
+"16300","Cedar Rapids, IA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",55202
+"16540","Chambersburg-Waynesboro, PA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",7236530
+"16540","Chambersburg-Waynesboro, PA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",46679
+"16580","Champaign-Urbana, IL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",10633430
+"16580","Champaign-Urbana, IL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",47044
+"16620","Charleston, WV (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",12436506
+"16620","Charleston, WV (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",48377
+"16700","Charleston-North Charleston, SC (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",40305948
+"16700","Charleston-North Charleston, SC (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",50249
+"16740","Charlotte-Concord-Gastonia, NC-SC (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",138243127
+"16740","Charlotte-Concord-Gastonia, NC-SC (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",52427
+"16820","Charlottesville, VA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",14022078
+"16820","Charlottesville, VA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",64141
+"16860","Chattanooga, TN-GA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",27625033
+"16860","Chattanooga, TN-GA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",48877
+"16940","Cheyenne, WY (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",5349701
+"16940","Cheyenne, WY (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",53766
+"16980","Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",536747365
+"16980","Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",56747
+"17020","Chico, CA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",9578729
+"17020","Chico, CA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",43701
+"17140","Cincinnati, OH-KY-IN (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",126220563
+"17140","Cincinnati, OH-KY-IN (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",56825
+"17300","Clarksville, TN-KY (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",13420382
+"17300","Clarksville, TN-KY (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",43598
+"17420","Cleveland, TN (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",5345151
+"17420","Cleveland, TN (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",42781
+"17460","Cleveland-Elyria, OH (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",116022716
+"17460","Cleveland-Elyria, OH (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",56639
+"17660","Coeur d'Alene, ID (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",7590271
+"17660","Coeur d'Alene, ID (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",45808
+"17780","College Station-Bryan, TX (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",11122305
+"17780","College Station-Bryan, TX (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",42014
+"17820","Colorado Springs, CO (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",35274900
+"17820","Colorado Springs, CO (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",47299
+"17860","Columbia, MO (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",10096144
+"17860","Columbia, MO (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",48499
+"17900","Columbia, SC (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",39210503
+"17900","Columbia, SC (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",46766
+"17980","Columbus, GA-AL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",14037545
+"17980","Columbus, GA-AL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",43724
+"18020","Columbus, IN (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",4556342
+"18020","Columbus, IN (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",54385
+"18140","Columbus, OH (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",111639308
+"18140","Columbus, OH (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",52604
+"18580","Corpus Christi, TX (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",19243905
+"18580","Corpus Christi, TX (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",44855
+"18700","Corvallis, OR (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",4047129
+"18700","Corvallis, OR (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",43493
+"18880","Crestview-Fort Walton Beach-Destin, FL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",15017201
+"18880","Crestview-Fort Walton Beach-Destin, FL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",52727
+"19060","Cumberland, MD-WV (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",4395842
+"19060","Cumberland, MD-WV (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",45186
+"19100","Dallas-Fort Worth-Arlington, TX (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",403782904
+"19100","Dallas-Fort Worth-Arlington, TX (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",53318
+"19140","Dalton, GA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",5803962
+"19140","Dalton, GA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",40104
+"19180","Danville, IL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",3527964
+"19180","Danville, IL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",46569
+"19300","Daphne-Fairhope-Foley, AL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",10787797
+"19300","Daphne-Fairhope-Foley, AL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",48325
+"19340","Davenport-Moline-Rock Island, IA-IL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",19918316
+"19340","Davenport-Moline-Rock Island, IA-IL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",52531
+"19430","Dayton-Kettering, OH (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",41635573
+"19430","Dayton-Kettering, OH (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",51554
+"19460","Decatur, AL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",6746471
+"19460","Decatur, AL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",44209
+"19500","Decatur, IL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",5480424
+"19500","Decatur, IL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",52692
+"19660","Deltona-Daytona Beach-Ormond Beach, FL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",28679614
+"19660","Deltona-Daytona Beach-Ormond Beach, FL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",42910
+"19740","Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",175906482
+"19740","Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",59283
+"19780","Des Moines-West Des Moines, IA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",38300657
+"19780","Des Moines-West Des Moines, IA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",54771
+"19820","Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",225398572
+"19820","Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",52180
+"20020","Dothan, AL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",7079189
+"20020","Dothan, AL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",47397
+"20100","Dover, DE (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",7738383
+"20100","Dover, DE (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",42804
+"20220","Dubuque, IA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",5166710
+"20220","Dubuque, IA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",53095
+"20260","Duluth, MN-WI (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",14117194
+"20260","Duluth, MN-WI (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",48894
+"20500","Durham-Chapel Hill, NC (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",33990726
+"20500","Durham-Chapel Hill, NC (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",52751
+"20700","East Stroudsburg, PA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",6964791
+"20700","East Stroudsburg, PA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",40904
+"20740","Eau Claire, WI (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",8548190
+"20740","Eau Claire, WI (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",50490
+"20940","El Centro, CA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",7446156
+"20940","El Centro, CA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",41090
+"21060","Elizabethtown-Fort Knox, KY (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",7042188
+"21060","Elizabethtown-Fort Knox, KY (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",45750
+"21140","Elkhart-Goshen, IN (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",10028182
+"21140","Elkhart-Goshen, IN (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",48600
+"21300","Elmira, NY (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",3748038
+"21300","Elmira, NY (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",44910
+"21340","El Paso, TX (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",33280342
+"21340","El Paso, TX (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",39426
+"21420","Enid, OK (Metropolitan Statistical Area) 4/","1","Real personal income (thousands of chained (2012) dollars)",2851380
+"21420","Enid, OK (Metropolitan Statistical Area) 4/","2","Real per capita personal income (chained (2012) dollars) 2/",46701
+"21500","Erie, PA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",12580216
+"21500","Erie, PA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",46640
+"21660","Eugene-Springfield, OR (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",16707539
+"21660","Eugene-Springfield, OR (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",43729
+"21780","Evansville, IN-KY (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",16173129
+"21780","Evansville, IN-KY (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",51329
+"21820","Fairbanks, AK (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",4992711
+"21820","Fairbanks, AK (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",51551
+"22020","Fargo, ND-MN (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",13712294
+"22020","Fargo, ND-MN (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",55708
+"22140","Farmington, NM (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",4537905
+"22140","Farmington, NM (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",36608
+"22180","Fayetteville, NC (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",20767608
+"22180","Fayetteville, NC (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",39428
+"22220","Fayetteville-Springdale-Rogers, AR (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",37764259
+"22220","Fayetteville-Springdale-Rogers, AR (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",70600
+"22380","Flagstaff, AZ (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",6523995
+"22380","Flagstaff, AZ (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",45471
+"22420","Flint, MI (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",17614545
+"22420","Flint, MI (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",43406
+"22500","Florence, SC (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",9125739
+"22500","Florence, SC (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",44535
+"22520","Florence-Muscle Shoals, AL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",6583545
+"22520","Florence-Muscle Shoals, AL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",44492
+"22540","Fond du Lac, WI (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",5403561
+"22540","Fond du Lac, WI (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",52257
+"22660","Fort Collins, CO (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",17965254
+"22660","Fort Collins, CO (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",50337
+"22900","Fort Smith, AR-OK (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",10641569
+"22900","Fort Smith, AR-OK (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",42504
+"23060","Fort Wayne, IN (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",20472312
+"23060","Fort Wayne, IN (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",49538
+"23420","Fresno, CA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",42819756
+"23420","Fresno, CA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",42858
+"23460","Gadsden, AL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",4379948
+"23460","Gadsden, AL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",42828
+"23540","Gainesville, FL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",14375317
+"23540","Gainesville, FL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",43677
+"23580","Gainesville, GA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",9380392
+"23580","Gainesville, GA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",45883
+"23900","Gettysburg, PA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",4967889
+"23900","Gettysburg, PA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",48228
+"24020","Glens Falls, NY (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",5812341
+"24020","Glens Falls, NY (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",46444
+"24140","Goldsboro, NC (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",5179309
+"24140","Goldsboro, NC (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",42063
+"24220","Grand Forks, ND-MN (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",5383254
+"24220","Grand Forks, ND-MN (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",53397
+"24260","Grand Island, NE (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",3689620
+"24260","Grand Island, NE (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",48835
+"24300","Grand Junction, CO (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",7063458
+"24300","Grand Junction, CO (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",45804
+"24340","Grand Rapids-Kentwood, MI (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",54111408
+"24340","Grand Rapids-Kentwood, MI (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",50225
+"24420","Grants Pass, OR (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",3662989
+"24420","Grants Pass, OR (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",41869
+"24500","Great Falls, MT (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",4050090
+"24500","Great Falls, MT (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",49776
+"24540","Greeley, CO (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",15270189
+"24540","Greeley, CO (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",47059
+"24580","Green Bay, WI (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",17513950
+"24580","Green Bay, WI (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",54239
+"24660","Greensboro-High Point, NC (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",35339306
+"24660","Greensboro-High Point, NC (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",45785
+"24780","Greenville, NC (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",8227486
+"24780","Greenville, NC (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",45521
+"24860","Greenville-Anderson, SC (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",42366389
+"24860","Greenville-Anderson, SC (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",46027
+"25060","Gulfport-Biloxi, MS (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",16620895
+"25060","Gulfport-Biloxi, MS (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",39795
+"25180","Hagerstown-Martinsburg, MD-WV (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",12454895
+"25180","Hagerstown-Martinsburg, MD-WV (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",43231
+"25220","Hammond, LA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",5565016
+"25220","Hammond, LA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",41296
+"25260","Hanford-Corcoran, CA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",5819467
+"25260","Hanford-Corcoran, CA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",38051
+"25420","Harrisburg-Carlisle, PA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",29826808
+"25420","Harrisburg-Carlisle, PA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",51609
+"25500","Harrisonburg, VA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",5574531
+"25500","Harrisonburg, VA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",41304
+"25540","Hartford-East Hartford-Middletown, CT (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",70337210
+"25540","Hartford-East Hartford-Middletown, CT (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",58377
+"25620","Hattiesburg, MS (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",7147018
+"25620","Hattiesburg, MS (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",42328
+"25860","Hickory-Lenoir-Morganton, NC (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",15863337
+"25860","Hickory-Lenoir-Morganton, NC (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",42907
+"25940","Hilton Head Island-Bluffton, SC (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",11913397
+"25940","Hilton Head Island-Bluffton, SC (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",53617
+"25980","Hinesville, GA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",2839687
+"25980","Hinesville, GA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",35060
+"26140","Homosassa Springs, FL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",6025382
+"26140","Homosassa Springs, FL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",40261
+"26300","Hot Springs, AR (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",4408196
+"26300","Hot Springs, AR (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",44354
+"26380","Houma-Thibodaux, LA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",9532595
+"26380","Houma-Thibodaux, LA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",45813
+"26420","Houston-The Woodlands-Sugar Land, TX (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",375725595
+"26420","Houston-The Woodlands-Sugar Land, TX (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",53173
+"26580","Huntington-Ashland, WV-KY-OH (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",15803150
+"26580","Huntington-Ashland, WV-KY-OH (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",44407
+"26620","Huntsville, AL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",25373411
+"26620","Huntsville, AL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",53777
+"26820","Idaho Falls, ID (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",7256890
+"26820","Idaho Falls, ID (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",47891
+"26900","Indianapolis-Carmel-Anderson, IN (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",117868143
+"26900","Indianapolis-Carmel-Anderson, IN (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",56817
+"26980","Iowa City, IA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",9558410
+"26980","Iowa City, IA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",55217
+"27060","Ithaca, NY (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",4141919
+"27060","Ithaca, NY (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",40536
+"27100","Jackson, MI (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",6715129
+"27100","Jackson, MI (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",42364
+"27140","Jackson, MS (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",27866021
+"27140","Jackson, MS (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",46849
+"27180","Jackson, TN (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",8500086
+"27180","Jackson, TN (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",47581
+"27260","Jacksonville, FL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",77159364
+"27260","Jacksonville, FL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",49477
+"27340","Jacksonville, NC (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",9430390
+"27340","Jacksonville, NC (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",47643
+"27500","Janesville-Beloit, WI (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",7745685
+"27500","Janesville-Beloit, WI (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",47417
+"27620","Jefferson City, MO (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",7371171
+"27620","Jefferson City, MO (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",48740
+"27740","Johnson City, TN (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",9038202
+"27740","Johnson City, TN (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",44381
+"27780","Johnstown, PA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",6338041
+"27780","Johnstown, PA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",48682
+"27860","Jonesboro, AR (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",5597515
+"27860","Jonesboro, AR (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",41816
+"27900","Joplin, MO (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",8173995
+"27900","Joplin, MO (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",45521
+"27980","Kahului-Wailuku-Lahaina, HI (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",6973614
+"27980","Kahului-Wailuku-Lahaina, HI (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",41633
+"28020","Kalamazoo-Portage, MI (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",13418764
+"28020","Kalamazoo-Portage, MI (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",50624
+"28100","Kankakee, IL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",4634995
+"28100","Kankakee, IL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",42189
+"28140","Kansas City, MO-KS (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",117487767
+"28140","Kansas City, MO-KS (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",54443
+"28420","Kennewick-Richland, WA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",12895995
+"28420","Kennewick-Richland, WA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",43042
+"28660","Killeen-Temple, TX (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",20332549
+"28660","Killeen-Temple, TX (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",44172
+"28700","Kingsport-Bristol, TN-VA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",13665421
+"28700","Kingsport-Bristol, TN-VA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",44484
+"28740","Kingston, NY (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",8421475
+"28740","Kingston, NY (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",47425
+"28940","Knoxville, TN (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",42908424
+"28940","Knoxville, TN (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",49374
+"29020","Kokomo, IN (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",3808201
+"29020","Kokomo, IN (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",46135
+"29100","La Crosse-Onalaska, WI-MN (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",7186347
+"29100","La Crosse-Onalaska, WI-MN (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",52603
+"29180","Lafayette, LA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",23353550
+"29180","Lafayette, LA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",47738
+"29200","Lafayette-West Lafayette, IN (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",9567779
+"29200","Lafayette-West Lafayette, IN (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",41063
+"29340","Lake Charles, LA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",10821751
+"29340","Lake Charles, LA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",51432
+"29420","Lake Havasu City-Kingman, AZ (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",7504764
+"29420","Lake Havasu City-Kingman, AZ (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",35370
+"29460","Lakeland-Winter Haven, FL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",26104607
+"29460","Lakeland-Winter Haven, FL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",36017
+"29540","Lancaster, PA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",27751941
+"29540","Lancaster, PA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",50853
+"29620","Lansing-East Lansing, MI (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",23763590
+"29620","Lansing-East Lansing, MI (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",43176
+"29700","Laredo, TX (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",9584999
+"29700","Laredo, TX (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",34646
+"29740","Las Cruces, NM (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",8824954
+"29740","Las Cruces, NM (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",40445
+"29820","Las Vegas-Henderson-Paradise, NV (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",104888357
+"29820","Las Vegas-Henderson-Paradise, NV (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",46273
+"29940","Lawrence, KS (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",5566490
+"29940","Lawrence, KS (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",45530
+"30020","Lawton, OK (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",5660846
+"30020","Lawton, OK (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",44780
+"30140","Lebanon, PA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",6654630
+"30140","Lebanon, PA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",46932
+"30300","Lewiston, ID-WA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",3036539
+"30300","Lewiston, ID-WA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",48207
+"30340","Lewiston-Auburn, ME (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",4445887
+"30340","Lewiston-Auburn, ME (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",41060
+"30460","Lexington-Fayette, KY (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",26006177
+"30460","Lexington-Fayette, KY (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",50297
+"30620","Lima, OH (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",4897498
+"30620","Lima, OH (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",47850
+"30700","Lincoln, NE (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",17284341
+"30700","Lincoln, NE (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",51384
+"30780","Little Rock-North Little Rock-Conway, AR (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",36188116
+"30780","Little Rock-North Little Rock-Conway, AR (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",48746
+"30860","Logan, UT-ID (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",5942188
+"30860","Logan, UT-ID (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",41798
+"30980","Longview, TX (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",12688230
+"30980","Longview, TX (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",44263
+"31020","Longview, WA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",4898908
+"31020","Longview, WA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",44297
+"31080","Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",681437421
+"31080","Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",51566
+"31140","Louisville/Jefferson County, KY-IN (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",67598494
+"31140","Louisville/Jefferson County, KY-IN (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",53433
+"31180","Lubbock, TX (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",14367210
+"31180","Lubbock, TX (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",44583
+"31340","Lynchburg, VA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",11068307
+"31340","Lynchburg, VA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",41994
+"31420","Macon-Bibb County, GA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",10192385
+"31420","Macon-Bibb County, GA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",44315
+"31460","Madera, CA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",6293093
+"31460","Madera, CA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",40000
+"31540","Madison, WI (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",39333828
+"31540","Madison, WI (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",59161
+"31700","Manchester-Nashua, NH (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",22504414
+"31700","Manchester-Nashua, NH (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",53964
+"31740","Manhattan, KS (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",6222899
+"31740","Manhattan, KS (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",47764
+"31860","Mankato, MN (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",4930106
+"31860","Mankato, MN (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",48369
+"31900","Mansfield, OH (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",5385823
+"31900","Mansfield, OH (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",44454
+"32580","McAllen-Edinburg-Mission, TX (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",26598950
+"32580","McAllen-Edinburg-Mission, TX (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",30619
+"32780","Medford, OR (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",9975289
+"32780","Medford, OR (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",45148
+"32820","Memphis, TN-MS-AR (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",66222456
+"32820","Memphis, TN-MS-AR (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",49198
+"32900","Merced, CA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",10837729
+"32900","Merced, CA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",39030
+"33100","Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",309066517
+"33100","Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",50120
+"33140","Michigan City-La Porte, IN (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",5237148
+"33140","Michigan City-La Porte, IN (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",47659
+"33220","Midland, MI (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",4799428
+"33220","Midland, MI (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",57716
+"33260","Midland, TX (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",21856025
+"33260","Midland, TX (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",119691
+"33340","Milwaukee-Waukesha, WI (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",89376365
+"33340","Milwaukee-Waukesha, WI (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",56740
+"33460","Minneapolis-St. Paul-Bloomington, MN-WI (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",208802071
+"33460","Minneapolis-St. Paul-Bloomington, MN-WI (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",57363
+"33540","Missoula, MT (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",5884883
+"33540","Missoula, MT (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",49205
+"33660","Mobile, AL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",18516244
+"33660","Mobile, AL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",43108
+"33700","Modesto, CA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",22901970
+"33700","Modesto, CA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",41590
+"33740","Monroe, LA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",9234320
+"33740","Monroe, LA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",46111
+"33780","Monroe, MI (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",7427566
+"33780","Monroe, MI (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",49353
+"33860","Montgomery, AL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",17525112
+"33860","Montgomery, AL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",46948
+"34060","Morgantown, WV (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",6323016
+"34060","Morgantown, WV (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",45475
+"34100","Morristown, TN (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",5902540
+"34100","Morristown, TN (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",41349
+"34580","Mount Vernon-Anacortes, WA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",6376180
+"34580","Mount Vernon-Anacortes, WA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",49349
+"34620","Muncie, IN (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",4662025
+"34620","Muncie, IN (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",40847
+"34740","Muskegon, MI (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",7284471
+"34740","Muskegon, MI (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",41969
+"34820","Myrtle Beach-Conway-North Myrtle Beach, SC-NC (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",20036898
+"34820","Myrtle Beach-Conway-North Myrtle Beach, SC-NC (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",40324
+"34900","Napa, CA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",7928604
+"34900","Napa, CA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",57560
+"34940","Naples-Marco Island, FL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",34821760
+"34940","Naples-Marco Island, FL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",90469
+"34980","Nashville-Davidson--Murfreesboro--Franklin, TN (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",114149333
+"34980","Nashville-Davidson--Murfreesboro--Franklin, TN (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",59013
+"35100","New Bern, NC (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",6111854
+"35100","New Bern, NC (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",49177
+"35300","New Haven-Milford, CT (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",42698204
+"35300","New Haven-Milford, CT (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",49954
+"35380","New Orleans-Metairie, LA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",68130128
+"35380","New Orleans-Metairie, LA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",53623
+"35620","New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",1121369151
+"35620","New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",58355
+"35660","Niles, MI (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",7913630
+"35660","Niles, MI (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",51588
+"35840","North Port-Sarasota-Bradenton, FL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",44272866
+"35840","North Port-Sarasota-Bradenton, FL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",52895
+"35980","Norwich-New London, CT (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",14193950
+"35980","Norwich-New London, CT (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",53520
+"36100","Ocala, FL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",14027247
+"36100","Ocala, FL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",38370
+"36140","Ocean City, NJ (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",5205750
+"36140","Ocean City, NJ (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",56560
+"36220","Odessa, TX (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",8049737
+"36220","Odessa, TX (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",48427
+"36260","Ogden-Clearfield, UT (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",30710218
+"36260","Ogden-Clearfield, UT (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",44907
+"36420","Oklahoma City, OK (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",70399430
+"36420","Oklahoma City, OK (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",49966
+"36500","Olympia-Lacey-Tumwater, WA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",12992767
+"36500","Olympia-Lacey-Tumwater, WA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",44720
+"36540","Omaha-Council Bluffs, NE-IA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",56035566
+"36540","Omaha-Council Bluffs, NE-IA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",59019
+"36740","Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",109297303
+"36740","Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",41906
+"36780","Oshkosh-Neenah, WI (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",8729179
+"36780","Oshkosh-Neenah, WI (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",50778
+"36980","Owensboro, KY (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",5241315
+"36980","Owensboro, KY (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",43882
+"37100","Oxnard-Thousand Oaks-Ventura, CA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",42960190
+"37100","Oxnard-Thousand Oaks-Ventura, CA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",50780
+"37340","Palm Bay-Melbourne-Titusville, FL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",27380868
+"37340","Palm Bay-Melbourne-Titusville, FL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",45488
+"37460","Panama City, FL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",7666131
+"37460","Panama City, FL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",43880
+"37620","Parkersburg-Vienna, WV (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",4121871
+"37620","Parkersburg-Vienna, WV (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",46137
+"37860","Pensacola-Ferry Pass-Brent, FL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",22422799
+"37860","Pensacola-Ferry Pass-Brent, FL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",44611
+"37900","Peoria, IL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",20690920
+"37900","Peoria, IL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",51655
+"37980","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",354547017
+"37980","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",58099
+"38060","Phoenix-Mesa-Chandler, AZ (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",221396896
+"38060","Phoenix-Mesa-Chandler, AZ (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",44743
+"38220","Pine Bluff, AR (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",3554825
+"38220","Pine Bluff, AR (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",40486
+"38300","Pittsburgh, PA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",138721634
+"38300","Pittsburgh, PA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",59856
+"38340","Pittsfield, MA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",6798098
+"38340","Pittsfield, MA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",54409
+"38540","Pocatello, ID (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",3936136
+"38540","Pocatello, ID (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",41221
+"38860","Portland-South Portland, ME (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",28613873
+"38860","Portland-South Portland, ME (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",53136
+"38900","Portland-Vancouver-Hillsboro, OR-WA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",130668363
+"38900","Portland-Vancouver-Hillsboro, OR-WA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",52426
+"38940","Port St. Lucie, FL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",25777437
+"38940","Port St. Lucie, FL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",52683
+"39100","Poughkeepsie-Newburgh-Middletown, NY (Metropolitan Statistical Area) 4/","1","Real personal income (thousands of chained (2012) dollars)",29307045
+"39100","Poughkeepsie-Newburgh-Middletown, NY (Metropolitan Statistical Area) 4/","2","Real per capita personal income (chained (2012) dollars) 2/",43152
+"39150","Prescott Valley-Prescott, AZ (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",9426167
+"39150","Prescott Valley-Prescott, AZ (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",40094
+"39300","Providence-Warwick, RI-MA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",83473221
+"39300","Providence-Warwick, RI-MA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",51381
+"39340","Provo-Orem, UT (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",26545537
+"39340","Provo-Orem, UT (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",40949
+"39380","Pueblo, CO (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",7034175
+"39380","Pueblo, CO (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",41765
+"39460","Punta Gorda, FL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",7727674
+"39460","Punta Gorda, FL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",40907
+"39540","Racine, WI (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",9967940
+"39540","Racine, WI (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",50776
+"39580","Raleigh-Cary, NC (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",76888240
+"39580","Raleigh-Cary, NC (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",55284
+"39660","Rapid City, SD (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",7514341
+"39660","Rapid City, SD (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",52878
+"39740","Reading, PA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",20762412
+"39740","Reading, PA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",49298
+"39820","Redding, CA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",8171577
+"39820","Redding, CA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",45377
+"39900","Reno, NV (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",28112193
+"39900","Reno, NV (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",59104
+"40060","Richmond, VA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",72580475
+"40060","Richmond, VA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",56181
+"40140","Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",168144317
+"40140","Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",36155
+"40220","Roanoke, VA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",15257041
+"40220","Roanoke, VA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",48710
+"40340","Rochester, MN (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",12291061
+"40340","Rochester, MN (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",55385
+"40380","Rochester, NY (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",53836467
+"40380","Rochester, NY (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",50331
+"40420","Rockford, IL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",15898884
+"40420","Rockford, IL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",47302
+"40580","Rocky Mount, NC (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",6557931
+"40580","Rocky Mount, NC (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",44988
+"40660","Rome, GA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",4239623
+"40660","Rome, GA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",43043
+"40900","Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",121376598
+"40900","Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",51350
+"40980","Saginaw, MI (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",8277853
+"40980","Saginaw, MI (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",43444
+"41060","St. Cloud, MN (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",9749541
+"41060","St. Cloud, MN (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",48274
+"41100","St. George, UT (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",7066832
+"41100","St. George, UT (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",39801
+"41140","St. Joseph, MO-KS (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",5416047
+"41140","St. Joseph, MO-KS (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",43251
+"41180","St. Louis, MO-IL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",162585289
+"41180","St. Louis, MO-IL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",57999
+"41420","Salem, OR (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",18004857
+"41420","Salem, OR (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",41495
+"41500","Salinas, CA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",21407157
+"41500","Salinas, CA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",49318
+"41540","Salisbury, MD-DE (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",20986344
+"41540","Salisbury, MD-DE (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",50481
+"41620","Salt Lake City, UT (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",62523563
+"41620","Salt Lake City, UT (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",50721
+"41660","San Angelo, TX (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",6052973
+"41660","San Angelo, TX (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",49604
+"41700","San Antonio-New Braunfels, TX (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",122308879
+"41700","San Antonio-New Braunfels, TX (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",47946
+"41740","San Diego-Chula Vista-Carlsbad, CA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",165721580
+"41740","San Diego-Chula Vista-Carlsbad, CA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",49642
+"41860","San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",339118552
+"41860","San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",71668
+"41940","San Jose-Sunnyvale-Santa Clara, CA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",164664369
+"41940","San Jose-Sunnyvale-Santa Clara, CA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",82718
+"42020","San Luis Obispo-Paso Robles, CA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",14389351
+"42020","San Luis Obispo-Paso Robles, CA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",50826
+"42100","Santa Cruz-Watsonville, CA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",14646058
+"42100","Santa Cruz-Watsonville, CA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",53607
+"42140","Santa Fe, NM (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",8581412
+"42140","Santa Fe, NM (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",57073
+"42200","Santa Maria-Santa Barbara, CA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",24163964
+"42200","Santa Maria-Santa Barbara, CA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",54119
+"42220","Santa Rosa-Petaluma, CA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",25111434
+"42220","Santa Rosa-Petaluma, CA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",50798
+"42340","Savannah, GA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",18304446
+"42340","Savannah, GA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",46534
+"42540","Scranton--Wilkes-Barre, PA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",26341244
+"42540","Scranton--Wilkes-Barre, PA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",47557
+"42660","Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",249215104
+"42660","Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",62619
+"42680","Sebastian-Vero Beach, FL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",12789693
+"42680","Sebastian-Vero Beach, FL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",79974
+"42700","Sebring-Avon Park, FL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",3868051
+"42700","Sebring-Avon Park, FL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",36415
+"43100","Sheboygan, WI (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",6542100
+"43100","Sheboygan, WI (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",56720
+"43300","Sherman-Denison, TX (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",6049500
+"43300","Sherman-Denison, TX (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",44412
+"43340","Shreveport-Bossier City, LA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",20080166
+"43340","Shreveport-Bossier City, LA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",50874
+"43420","Sierra Vista-Douglas, AZ (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",5468969
+"43420","Sierra Vista-Douglas, AZ (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",43431
+"43580","Sioux City, IA-NE-SD (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",7950375
+"43580","Sioux City, IA-NE-SD (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",54943
+"43620","Sioux Falls, SD (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",16742288
+"43620","Sioux Falls, SD (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",62417
+"43780","South Bend-Mishawaka, IN-MI (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",16173888
+"43780","South Bend-Mishawaka, IN-MI (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",49979
+"43900","Spartanburg, SC (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",14497604
+"43900","Spartanburg, SC (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",45335
+"44060","Spokane-Spokane Valley, WA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",25888588
+"44060","Spokane-Spokane Valley, WA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",45537
+"44100","Springfield, IL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",10527826
+"44100","Springfield, IL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",50892
+"44140","Springfield, MA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",35517740
+"44140","Springfield, MA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",50930
+"44180","Springfield, MO (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",21421200
+"44180","Springfield, MO (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",45548
+"44220","Springfield, OH (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",6103383
+"44220","Springfield, OH (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",45519
+"44300","State College, PA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",7092483
+"44300","State College, PA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",43677
+"44420","Staunton, VA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",5853771
+"44420","Staunton, VA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",47545
+"44700","Stockton, CA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",32292723
+"44700","Stockton, CA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",42371
+"44940","Sumter, SC (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",5846906
+"44940","Sumter, SC (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",41625
+"45060","Syracuse, NY (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",32289982
+"45060","Syracuse, NY (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",49785
+"45220","Tallahassee, FL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",16914389
+"45220","Tallahassee, FL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",43681
+"45300","Tampa-St. Petersburg-Clearwater, FL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",145247168
+"45300","Tampa-St. Petersburg-Clearwater, FL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",45463
+"45460","Terre Haute, IN (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",7789989
+"45460","Terre Haute, IN (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",41799
+"45500","Texarkana, TX-AR (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",6267627
+"45500","Texarkana, TX-AR (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",42132
+"45540","The Villages, FL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",6145037
+"45540","The Villages, FL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",46406
+"45780","Toledo, OH (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",33064989
+"45780","Toledo, OH (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",51518
+"45820","Topeka, KS (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",11501117
+"45820","Topeka, KS (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",49580
+"45940","Trenton-Princeton, NJ (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",22811368
+"45940","Trenton-Princeton, NJ (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",62084
+"46060","Tucson, AZ (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",46981404
+"46060","Tucson, AZ (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",44860
+"46140","Tulsa, OK (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",58512781
+"46140","Tulsa, OK (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",58593
+"46220","Tuscaloosa, AL (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",10668566
+"46220","Tuscaloosa, AL (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",42328
+"46300","Twin Falls, ID (Metropolitan Statistical Area) 4/","1","Real personal income (thousands of chained (2012) dollars)",4807415
+"46300","Twin Falls, ID (Metropolitan Statistical Area) 4/","2","Real per capita personal income (chained (2012) dollars) 2/",43197
+"46340","Tyler, TX (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",13103274
+"46340","Tyler, TX (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",56297
+"46520","Urban Honolulu, HI (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",44243226
+"46520","Urban Honolulu, HI (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",45398
+"46540","Utica-Rome, NY (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",13253223
+"46540","Utica-Rome, NY (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",45702
+"46660","Valdosta, GA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",5961085
+"46660","Valdosta, GA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",40471
+"46700","Vallejo, CA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",18593874
+"46700","Vallejo, CA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",41537
+"47020","Victoria, TX (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",4894788
+"47020","Victoria, TX (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",49074
+"47220","Vineland-Bridgeton, NJ (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",5818263
+"47220","Vineland-Bridgeton, NJ (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",38911
+"47260","Virginia Beach-Norfolk-Newport News, VA-NC (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",87607803
+"47260","Virginia Beach-Norfolk-Newport News, VA-NC (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",49527
+"47300","Visalia, CA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",19271523
+"47300","Visalia, CA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",41338
+"47380","Waco, TX (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",11816178
+"47380","Waco, TX (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",43137
+"47460","Walla Walla, WA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",2780607
+"47460","Walla Walla, WA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",45764
+"47580","Warner Robins, GA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",8239969
+"47580","Warner Robins, GA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",44442
+"47900","Washington-Arlington-Alexandria, DC-VA-MD-WV (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",365554131
+"47900","Washington-Arlington-Alexandria, DC-VA-MD-WV (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",58205
+"47940","Waterloo-Cedar Falls, IA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",8290315
+"47940","Waterloo-Cedar Falls, IA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",49194
+"48060","Watertown-Fort Drum, NY (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",5141021
+"48060","Watertown-Fort Drum, NY (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",46807
+"48140","Wausau-Weston, WI (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",8718529
+"48140","Wausau-Weston, WI (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",53395
+"48260","Weirton-Steubenville, WV-OH (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",5347886
+"48260","Weirton-Steubenville, WV-OH (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",46073
+"48300","Wenatchee, WA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",5678644
+"48300","Wenatchee, WA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",47075
+"48540","Wheeling, WV-OH (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",7313527
+"48540","Wheeling, WV-OH (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",52635
+"48620","Wichita, KS (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",34866561
+"48620","Wichita, KS (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",54460
+"48660","Wichita Falls, TX (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",7218453
+"48660","Wichita Falls, TX (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",47724
+"48700","Williamsport, PA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",5083846
+"48700","Williamsport, PA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",44871
+"48900","Wilmington, NC (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",13302163
+"48900","Wilmington, NC (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",44708
+"49020","Winchester, VA-WV (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",6925810
+"49020","Winchester, VA-WV (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",49271
+"49180","Winston-Salem, NC (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",32124814
+"49180","Winston-Salem, NC (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",47521
+"49340","Worcester, MA-CT (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",48303345
+"49340","Worcester, MA-CT (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",50985
+"49420","Yakima, WA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",11184003
+"49420","Yakima, WA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",44580
+"49620","York-Hanover, PA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",22187987
+"49620","York-Hanover, PA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",49410
+"49660","Youngstown-Warren-Boardman, OH-PA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",24969879
+"49660","Youngstown-Warren-Boardman, OH-PA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",46579
+"49700","Yuba City, CA (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",7597844
+"49700","Yuba City, CA (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",43258
+"49740","Yuma, AZ (Metropolitan Statistical Area)","1","Real personal income (thousands of chained (2012) dollars)",8173538
+"49740","Yuma, AZ (Metropolitan Statistical Area)","2","Real per capita personal income (chained (2012) dollars) 2/",38232
+"Legend / Footnotes:"
+"1/ Real personal income for metropolitan areas is personal income divided by the RPPs and the national PCE price index. The result is a chained dollar estimate of real personal income, in thousands of chained 2012 dollars. Statistics presented in thousands of dollars do not indicate more precision than statistics presented in millions of dollars."
+"2/ Real per capita personal income is total real personal income divided by total midyear population."
+"3/ Real personal income for the United States Nonmetropolitan Portion was estimated using multiple statistical area delineations published by the Office of Management and Budget (OMB)."
+"4/ Real personal income estimates are not available for Enid, OK prior to 2013, Twin Falls, ID prior to 2015, and Poughkeepsie-Newburgh-Middletown, NY prior to 2016."
+"Last updated: December 15, 2020-- new statistics for 2019; revised statistics for 2017-2018."
