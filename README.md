@@ -1,7 +1,7 @@
 American postdoctoral salaries do not account for growing disparities in cost of living (paper)
 ==============================
 
-[!postdoc salary map](figures/RPP_map.png)
+![postdoc salary map](figures/RPP_map.png)
 
 ### Abstract
 
