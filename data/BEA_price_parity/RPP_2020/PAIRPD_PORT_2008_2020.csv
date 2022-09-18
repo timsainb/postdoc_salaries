@@ -1,0 +1,107 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+ "01998","Alabama (Metropolitan Portion)",5,PAIRPD,1,"...","Implicit regional price deflator","Index",86.788,85.848,88.982,91.628,93.560,94.377,95.636,95.072,97.166,98.104,96.959,99.620,101.019
+ "01999","Alabama (Nonmetropolitan Portion)",5,PAIRPD,1,"...","Implicit regional price deflator","Index",77.492,75.442,80.091,81.305,83.299,84.699,86.846,86.097,86.973,87.670,89.216,91.883,92.982
+ "02998","Alaska (Metropolitan Portion)",8,PAIRPD,1,"...","Implicit regional price deflator","Index",101.700,103.716,101.165,105.058,106.121,105.696,107.688,108.871,111.531,113.948,115.295,114.562,115.892
+ "02999","Alaska (Nonmetropolitan Portion)",8,PAIRPD,1,"...","Implicit regional price deflator","Index",96.995,95.094,95.835,99.415,97.904,100.377,103.552,104.972,104.431,109.081,110.778,111.598,112.350
+ "04998","Arizona (Metropolitan Portion)",6,PAIRPD,1,"...","Implicit regional price deflator","Index",97.514,98.107,96.904,97.980,98.953,100.563,101.439,101.354,103.625,104.484,106.366,108.901,111.053
+ "04999","Arizona (Nonmetropolitan Portion)",6,PAIRPD,1,"...","Implicit regional price deflator","Index",86.124,85.208,86.316,87.507,85.926,89.285,87.443,90.576,89.515,91.830,90.132,90.532,89.075
+ "05998","Arkansas (Metropolitan Portion)",5,PAIRPD,1,"...","Implicit regional price deflator","Index",86.805,85.334,88.241,91.341,92.913,94.122,95.213,95.500,96.862,97.802,97.771,99.306,101.361
+ "05999","Arkansas (Nonmetropolitan Portion)",5,PAIRPD,1,"...","Implicit regional price deflator","Index",79.271,77.340,81.473,84.049,85.068,86.611,87.765,87.433,87.494,88.403,91.563,93.150,95.042
+ "06998","California (Metropolitan Portion)",8,PAIRPD,1,"...","Implicit regional price deflator","Index",103.877,102.928,103.873,106.267,108.745,109.974,111.744,112.880,113.322,116.621,120.206,120.970,123.000
+ "06999","California (Nonmetropolitan Portion)",8,PAIRPD,1,"...","Implicit regional price deflator","Index",95.830,93.636,94.713,97.213,96.082,98.255,98.869,102.120,99.763,106.047,108.272,110.974,111.146
+ "08998","Colorado (Metropolitan Portion)",7,PAIRPD,1,"...","Implicit regional price deflator","Index",97.400,96.265,96.327,101.181,103.717,105.028,105.849,106.308,107.050,109.311,108.759,112.821,115.543
+ "08999","Colorado (Nonmetropolitan Portion)",7,PAIRPD,1,"...","Implicit regional price deflator","Index",95.332,93.778,93.972,96.563,96.924,99.615,100.140,103.023,102.159,105.737,102.273,107.187,106.333
+ "09998","Connecticut (Metropolitan Portion)",1,PAIRPD,1,"...","Implicit regional price deflator","Index",103.186,102.870,101.763,105.239,106.630,108.413,109.728,109.900,111.155,112.913,111.756,113.174,115.116
+ "09999","Connecticut (Nonmetropolitan Portion)",1,PAIRPD,1,"...","Implicit regional price deflator","Index",99.771,98.893,96.994,100.258,101.518,104.041,105.402,106.406,107.621,110.084,108.398,112.089,113.915
+ "10998","Delaware (Metropolitan Portion)",2,PAIRPD,1,"...","Implicit regional price deflator","Index",95.072,95.875,97.317,98.951,99.545,100.154,102.970,101.821,103.167,104.354,106.116,108.737,108.858
+ "10999","Delaware (Nonmetropolitan Portion)",2,PAIRPD,1,"...","Implicit regional price deflator","Index",0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+ "11998","District of Columbia (Metropolitan Portion)",2,PAIRPD,1,"...","Implicit regional price deflator","Index",105.527,105.599,108.276,110.335,110.715,114.780,116.658,115.951,115.283,116.005,120.138,119.881,123.970
+ "11999","District of Columbia (Nonmetropolitan Portion)",2,PAIRPD,1,"...","Implicit regional price deflator","Index",0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+ "12998","Florida (Metropolitan Portion)",5,PAIRPD,1,"...","Implicit regional price deflator","Index",96.340,95.259,96.784,99.683,101.599,102.645,104.206,104.991,105.974,107.762,109.338,110.093,112.280
+ "12999","Florida (Nonmetropolitan Portion)",5,PAIRPD,1,"...","Implicit regional price deflator","Index",85.821,83.626,87.846,89.891,91.163,93.219,94.971,94.103,95.367,95.705,99.316,101.655,102.662
+ "13998","Georgia (Metropolitan Portion)",5,PAIRPD,1,"...","Implicit regional price deflator","Index",91.071,88.370,92.703,93.864,97.573,98.306,99.826,99.671,101.203,103.380,104.584,105.859,106.836
+ "13999","Georgia (Nonmetropolitan Portion)",5,PAIRPD,1,"...","Implicit regional price deflator","Index",79.753,78.108,82.681,83.956,85.746,87.344,88.364,89.067,89.150,90.181,94.066,94.572,95.040
+ "15998","Hawaii (Metropolitan Portion)",8,PAIRPD,1,"...","Implicit regional price deflator","Index",104.291,107.494,106.784,109.935,111.263,115.346,116.170,116.482,117.099,118.294,120.684,123.492,125.794
+ "15999","Hawaii (Nonmetropolitan Portion)",8,PAIRPD,1,"...","Implicit regional price deflator","Index",99.857,96.801,98.648,98.511,99.758,103.297,104.068,107.277,106.706,109.379,112.905,117.503,119.235
+ "16998","Idaho (Metropolitan Portion)",7,PAIRPD,1,"...","Implicit regional price deflator","Index",89.689,90.472,89.923,93.475,94.791,95.694,97.391,97.992,97.375,101.782,100.294,103.224,102.485
+ "16999","Idaho (Nonmetropolitan Portion)",7,PAIRPD,1,"...","Implicit regional price deflator","Index",89.838,88.035,87.427,90.945,90.508,92.176,95.585,95.706,94.699,97.574,96.472,99.175,98.479
+ "17998","Illinois (Metropolitan Portion)",3,PAIRPD,1,"...","Implicit regional price deflator","Index",96.931,97.891,99.240,102.226,102.937,103.745,104.446,103.817,105.916,108.728,110.685,111.117,113.550
+ "17999","Illinois (Nonmetropolitan Portion)",3,PAIRPD,1,"...","Implicit regional price deflator","Index",76.755,79.273,83.906,85.032,87.902,87.633,89.561,89.140,87.980,89.213,94.970,96.680,96.115
+ "18998","Indiana (Metropolitan Portion)",3,PAIRPD,1,"...","Implicit regional price deflator","Index",90.022,89.586,91.344,92.882,94.542,96.280,97.533,96.651,97.880,98.856,102.290,103.923,104.173
+ "18999","Indiana (Nonmetropolitan Portion)",3,PAIRPD,1,"...","Implicit regional price deflator","Index",78.318,80.430,84.356,85.906,88.345,89.010,91.241,89.454,89.076,90.671,96.403,98.001,97.924
+ "19998","Iowa (Metropolitan Portion)",4,PAIRPD,1,"...","Implicit regional price deflator","Index",88.857,88.717,90.823,91.897,94.179,95.703,97.954,96.067,97.158,98.252,101.247,103.349,103.738
+ "19999","Iowa (Nonmetropolitan Portion)",4,PAIRPD,1,"...","Implicit regional price deflator","Index",75.833,78.638,83.280,84.430,87.060,88.788,89.793,87.630,89.214,89.790,95.943,97.093,97.199
+ "20998","Kansas (Metropolitan Portion)",4,PAIRPD,1,"...","Implicit regional price deflator","Index",89.285,89.797,91.881,94.211,96.488,97.558,99.160,99.314,99.656,100.810,102.587,104.334,104.866
+ "20999","Kansas (Nonmetropolitan Portion)",4,PAIRPD,1,"...","Implicit regional price deflator","Index",77.553,80.019,84.472,85.810,88.185,88.807,91.019,89.214,88.549,89.873,96.077,97.223,97.259
+ "21998","Kentucky (Metropolitan Portion)",5,PAIRPD,1,"...","Implicit regional price deflator","Index",88.128,86.914,89.685,92.327,94.184,95.673,96.801,96.652,97.561,99.112,99.352,101.233,102.202
+ "21999","Kentucky (Nonmetropolitan Portion)",5,PAIRPD,1,"...","Implicit regional price deflator","Index",80.005,78.679,82.380,84.618,85.364,87.960,89.137,88.716,88.790,89.492,92.855,94.739,95.676
+ "22998","Louisiana (Metropolitan Portion)",5,PAIRPD,1,"...","Implicit regional price deflator","Index",89.004,87.890,90.994,93.698,95.707,96.811,98.433,98.315,99.823,100.640,100.657,102.095,104.402
+ "22999","Louisiana (Nonmetropolitan Portion)",5,PAIRPD,1,"...","Implicit regional price deflator","Index",80.283,79.821,83.604,85.126,86.322,87.759,88.937,88.898,89.919,90.430,93.335,93.890,95.460
+ "23998","Maine (Metropolitan Portion)",1,PAIRPD,1,"...","Implicit regional price deflator","Index",94.586,94.204,93.400,95.950,99.031,100.920,98.382,101.546,101.857,105.786,107.717,108.746,110.545
+ "23999","Maine (Nonmetropolitan Portion)",1,PAIRPD,1,"...","Implicit regional price deflator","Index",88.881,87.782,88.402,91.529,91.661,93.437,91.688,94.240,93.694,96.920,99.592,101.585,102.821
+ "24998","Maryland (Metropolitan Portion)",2,PAIRPD,1,"...","Implicit regional price deflator","Index",102.716,103.822,103.846,107.636,107.538,110.000,111.221,111.510,111.732,113.567,115.242,115.684,118.939
+ "24999","Maryland (Nonmetropolitan Portion)",2,PAIRPD,1,"...","Implicit regional price deflator","Index",88.575,86.535,89.543,90.899,91.529,95.491,95.614,95.308,95.146,97.214,100.587,100.261,101.399
+ "25998","Massachusetts (Metropolitan Portion)",1,PAIRPD,1,"...","Implicit regional price deflator","Index",99.697,98.423,99.961,102.390,103.688,104.065,107.240,107.773,111.890,112.629,115.688,117.241,119.494
+ "25999","Massachusetts (Nonmetropolitan Portion)",1,PAIRPD,1,"...","Implicit regional price deflator","Index",101.791,98.845,99.471,102.283,105.995,106.419,107.923,105.748,112.226,114.120,113.217,118.106,120.912
+ "26998","Michigan (Metropolitan Portion)",3,PAIRPD,1,"...","Implicit regional price deflator","Index",92.690,92.054,92.932,94.706,96.121,97.989,99.855,98.213,98.944,99.668,103.280,105.833,105.996
+ "26999","Michigan (Nonmetropolitan Portion)",3,PAIRPD,1,"...","Implicit regional price deflator","Index",78.724,81.246,85.305,86.360,88.249,88.594,90.928,89.793,90.341,90.680,96.218,98.239,97.794
+ "27998","Minnesota (Metropolitan Portion)",4,PAIRPD,1,"...","Implicit regional price deflator","Index",94.996,96.389,96.425,98.899,100.080,102.070,104.773,103.565,104.491,105.785,110.774,111.083,112.692
+ "27999","Minnesota (Nonmetropolitan Portion)",4,PAIRPD,1,"...","Implicit regional price deflator","Index",77.157,80.703,84.317,85.104,88.596,89.283,90.325,89.484,89.427,90.424,96.295,98.582,98.541
+ "28998","Mississippi (Metropolitan Portion)",5,PAIRPD,1,"...","Implicit regional price deflator","Index",88.688,86.679,90.171,92.854,93.755,94.910,96.485,95.803,97.461,98.350,97.137,99.406,100.800
+ "28999","Mississippi (Nonmetropolitan Portion)",5,PAIRPD,1,"...","Implicit regional price deflator","Index",79.576,77.034,81.198,83.792,84.565,87.108,88.299,88.085,88.153,88.458,91.669,92.954,94.223
+ "29998","Missouri (Metropolitan Portion)",4,PAIRPD,1,"...","Implicit regional price deflator","Index",87.114,87.921,91.749,93.540,94.797,96.850,99.346,98.122,98.882,100.969,101.808,104.020,104.827
+ "29999","Missouri (Nonmetropolitan Portion)",4,PAIRPD,1,"...","Implicit regional price deflator","Index",74.457,77.482,81.994,83.226,86.093,87.413,89.263,87.800,86.920,87.300,93.464,95.422,95.555
+ "30998","Montana (Metropolitan Portion)",7,PAIRPD,1,"...","Implicit regional price deflator","Index",90.038,90.321,90.141,95.289,96.045,96.458,98.487,99.388,97.789,102.102,100.672,103.272,102.670
+ "30999","Montana (Nonmetropolitan Portion)",7,PAIRPD,1,"...","Implicit regional price deflator","Index",90.607,88.241,88.740,93.161,92.716,94.513,97.564,99.481,98.207,100.827,99.465,103.536,102.895
+ "31998","Nebraska (Metropolitan Portion)",4,PAIRPD,1,"...","Implicit regional price deflator","Index",91.081,90.459,92.061,93.254,95.508,96.748,98.833,98.005,98.942,99.886,102.791,104.889,105.593
+ "31999","Nebraska (Nonmetropolitan Portion)",4,PAIRPD,1,"...","Implicit regional price deflator","Index",77.008,79.204,83.914,86.509,88.928,89.507,89.924,89.923,89.198,89.748,96.207,98.249,98.818
+ "32998","Nevada (Metropolitan Portion)",8,PAIRPD,1,"...","Implicit regional price deflator","Index",96.001,98.024,96.995,100.826,102.373,101.701,102.487,101.890,101.887,106.682,104.861,109.175,108.448
+ "32999","Nevada (Nonmetropolitan Portion)",8,PAIRPD,1,"...","Implicit regional price deflator","Index",93.591,91.619,92.772,94.585,95.997,96.014,98.258,100.196,97.126,102.423,100.993,104.307,103.140
+ "33998","New Hampshire (Metropolitan Portion)",1,PAIRPD,1,"...","Implicit regional price deflator","Index",101.457,98.070,99.350,102.222,102.701,103.041,106.012,107.287,111.014,112.420,113.573,115.522,117.131
+ "33999","New Hampshire (Nonmetropolitan Portion)",1,PAIRPD,1,"...","Implicit regional price deflator","Index",97.121,96.229,96.960,97.429,100.418,102.903,101.319,102.658,104.690,106.975,108.219,110.116,112.029
+ "34998","New Jersey (Metropolitan Portion)",2,PAIRPD,1,"...","Implicit regional price deflator","Index",100.800,104.347,103.849,107.285,109.310,110.306,112.116,112.417,113.437,115.840,120.052,121.879,123.640
+ "34999","New Jersey (Nonmetropolitan Portion)",2,PAIRPD,1,"...","Implicit regional price deflator","Index",0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+ "35998","New Mexico (Metropolitan Portion)",6,PAIRPD,1,"...","Implicit regional price deflator","Index",90.820,92.287,92.548,97.257,98.783,98.471,100.606,98.598,99.544,103.279,101.454,104.330,103.779
+ "35999","New Mexico (Nonmetropolitan Portion)",6,PAIRPD,1,"...","Implicit regional price deflator","Index",86.492,86.010,85.861,90.048,91.489,92.863,92.602,95.050,94.007,96.895,94.531,97.960,97.256
+ "36998","New York (Metropolitan Portion)",2,PAIRPD,1,"...","Implicit regional price deflator","Index",105.769,105.041,105.892,109.487,110.569,111.903,112.956,113.880,115.427,117.368,119.573,121.564,123.875
+ "36999","New York (Nonmetropolitan Portion)",2,PAIRPD,1,"...","Implicit regional price deflator","Index",89.650,90.396,90.824,93.730,94.644,96.596,96.055,97.850,98.993,101.128,101.122,101.029,102.481
+ "37998","North Carolina (Metropolitan Portion)",5,PAIRPD,1,"...","Implicit regional price deflator","Index",89.214,87.979,91.004,93.897,95.385,96.900,98.631,98.429,100.106,101.291,102.235,102.526,103.418
+ "37999","North Carolina (Nonmetropolitan Portion)",5,PAIRPD,1,"...","Implicit regional price deflator","Index",81.007,79.291,83.060,85.341,86.768,89.226,89.609,89.701,89.746,90.584,95.117,95.544,96.135
+ "38998","North Dakota (Metropolitan Portion)",4,PAIRPD,1,"...","Implicit regional price deflator","Index",89.787,89.381,90.245,91.318,95.545,97.757,98.915,98.462,99.248,99.117,101.550,103.745,104.750
+ "38999","North Dakota (Nonmetropolitan Portion)",4,PAIRPD,1,"...","Implicit regional price deflator","Index",76.218,80.217,84.465,86.764,92.269,91.621,93.873,93.333,92.269,92.066,98.890,99.109,100.082
+ "39998","Ohio (Metropolitan Portion)",3,PAIRPD,1,"...","Implicit regional price deflator","Index",89.285,89.460,90.493,91.923,94.162,95.617,96.983,96.449,97.854,99.002,101.521,103.380,102.903
+ "39999","Ohio (Nonmetropolitan Portion)",3,PAIRPD,1,"...","Implicit regional price deflator","Index",78.475,81.080,84.696,85.428,88.591,89.532,90.789,89.908,90.102,90.866,96.253,98.198,97.610
+ "40998","Oklahoma (Metropolitan Portion)",6,PAIRPD,1,"...","Implicit regional price deflator","Index",88.195,87.234,90.267,93.087,95.158,96.289,98.015,97.657,98.918,100.242,100.363,101.302,103.594
+ "40999","Oklahoma (Nonmetropolitan Portion)",6,PAIRPD,1,"...","Implicit regional price deflator","Index",80.746,79.191,82.657,85.026,86.329,88.279,89.442,89.125,89.352,90.508,94.473,95.012,96.831
+ "41998","Oregon (Metropolitan Portion)",8,PAIRPD,1,"...","Implicit regional price deflator","Index",92.213,94.842,95.496,98.417,101.784,102.257,102.886,104.150,104.228,108.107,113.560,114.890,115.346
+ "41999","Oregon (Nonmetropolitan Portion)",8,PAIRPD,1,"...","Implicit regional price deflator","Index",91.198,89.246,90.131,92.855,93.193,94.875,95.756,98.303,97.732,101.365,105.822,107.127,107.085
+ "42998","Pennsylvania (Metropolitan Portion)",2,PAIRPD,1,"...","Implicit regional price deflator","Index",94.229,94.298,95.645,97.491,98.987,99.871,100.970,102.116,102.691,105.806,107.120,108.622,109.501
+ "42999","Pennsylvania (Nonmetropolitan Portion)",2,PAIRPD,1,"...","Implicit regional price deflator","Index",86.402,85.517,87.289,89.200,90.640,93.124,92.717,94.491,94.395,97.073,97.913,98.483,99.464
+ "44998","Rhode Island (Metropolitan Portion)",1,PAIRPD,1,"...","Implicit regional price deflator","Index",96.250,96.569,96.451,98.533,99.203,102.349,102.270,104.037,104.907,107.040,109.723,111.668,113.276
+ "44999","Rhode Island (Nonmetropolitan Portion)",1,PAIRPD,1,"...","Implicit regional price deflator","Index",0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+ "45998","South Carolina (Metropolitan Portion)",5,PAIRPD,1,"...","Implicit regional price deflator","Index",88.504,87.631,90.502,93.474,94.815,96.202,97.564,98.176,99.828,100.644,101.393,102.404,103.188
+ "45999","South Carolina (Nonmetropolitan Portion)",5,PAIRPD,1,"...","Implicit regional price deflator","Index",81.441,79.191,83.005,85.136,84.992,88.226,88.039,86.930,88.806,89.424,94.400,92.965,93.259
+ "46998","South Dakota (Metropolitan Portion)",4,PAIRPD,1,"...","Implicit regional price deflator","Index",88.375,87.688,89.861,90.138,95.287,94.710,97.671,95.777,97.246,97.632,101.757,103.946,104.136
+ "46999","South Dakota (Nonmetropolitan Portion)",4,PAIRPD,1,"...","Implicit regional price deflator","Index",75.457,77.592,81.124,83.490,87.600,88.664,89.183,88.886,89.141,90.974,96.285,99.093,99.591
+ "47998","Tennessee (Metropolitan Portion)",5,PAIRPD,1,"...","Implicit regional price deflator","Index",88.550,87.358,90.668,93.567,95.830,96.616,97.749,97.874,100.412,101.424,99.115,102.538,104.107
+ "47999","Tennessee (Nonmetropolitan Portion)",5,PAIRPD,1,"...","Implicit regional price deflator","Index",79.916,78.148,81.986,84.138,86.267,87.740,88.588,88.675,89.416,90.175,92.377,94.662,95.655
+ "48998","Texas (Metropolitan Portion)",6,PAIRPD,1,"...","Implicit regional price deflator","Index",93.119,92.943,95.089,96.820,99.242,100.947,102.679,103.153,103.633,105.010,107.528,109.983,111.702
+ "48999","Texas (Nonmetropolitan Portion)",6,PAIRPD,1,"...","Implicit regional price deflator","Index",82.764,80.687,84.703,86.306,88.687,90.252,92.324,91.677,92.112,92.868,97.352,99.343,101.558
+ "49998","Utah (Metropolitan Portion)",7,PAIRPD,1,"...","Implicit regional price deflator","Index",91.986,94.481,94.134,98.548,100.333,100.665,101.155,100.810,101.054,105.388,104.954,108.136,107.076
+ "49999","Utah (Nonmetropolitan Portion)",7,PAIRPD,1,"...","Implicit regional price deflator","Index",91.047,91.231,89.232,92.480,91.773,94.031,95.844,99.720,97.363,100.378,97.803,98.729,97.726
+ "50998","Vermont (Metropolitan Portion)",1,PAIRPD,1,"...","Implicit regional price deflator","Index",97.115,97.760,96.308,99.084,101.348,104.186,104.043,104.955,106.463,110.102,109.770,111.820,113.836
+ "50999","Vermont (Nonmetropolitan Portion)",1,PAIRPD,1,"...","Implicit regional price deflator","Index",94.320,93.258,94.186,95.695,98.282,99.609,99.418,102.182,101.903,104.726,106.926,107.028,108.544
+ "51998","Virginia (Metropolitan Portion)",5,PAIRPD,1,"...","Implicit regional price deflator","Index",99.363,98.548,101.409,103.583,104.468,106.945,108.476,108.934,109.270,109.315,112.313,111.898,114.175
+ "51999","Virginia (Nonmetropolitan Portion)",5,PAIRPD,1,"...","Implicit regional price deflator","Index",82.345,81.041,84.449,85.543,88.074,89.667,91.342,91.318,90.939,91.716,96.217,95.310,96.112
+ "53998","Washington (Metropolitan Portion)",8,PAIRPD,1,"...","Implicit regional price deflator","Index",98.613,98.962,98.426,101.523,103.187,104.099,107.058,107.291,110.004,114.479,116.131,118.728,120.535
+ "53999","Washington (Nonmetropolitan Portion)",8,PAIRPD,1,"...","Implicit regional price deflator","Index",92.694,91.786,91.372,94.376,95.278,97.265,98.617,99.883,100.228,103.704,108.267,107.648,107.886
+ "54998","West Virginia (Metropolitan Portion)",5,PAIRPD,1,"...","Implicit regional price deflator","Index",84.989,83.730,87.400,89.857,91.357,92.843,95.030,95.969,96.959,96.369,98.657,98.743,99.583
+ "54999","West Virginia (Nonmetropolitan Portion)",5,PAIRPD,1,"...","Implicit regional price deflator","Index",79.982,78.297,82.178,84.247,85.040,87.949,88.921,89.803,89.059,90.966,93.169,93.740,94.360
+ "55998","Wisconsin (Metropolitan Portion)",3,PAIRPD,1,"...","Implicit regional price deflator","Index",91.414,91.202,92.343,93.898,95.968,97.120,98.785,98.569,100.112,101.718,103.472,105.448,105.307
+ "55999","Wisconsin (Nonmetropolitan Portion)",3,PAIRPD,1,"...","Implicit regional price deflator","Index",79.465,81.519,85.907,87.467,89.195,90.073,91.583,90.320,89.960,90.838,97.580,99.249,98.833
+ "56998","Wyoming (Metropolitan Portion)",7,PAIRPD,1,"...","Implicit regional price deflator","Index",88.168,91.914,92.194,97.475,98.842,99.563,101.293,99.809,100.337,103.560,102.434,103.067,102.887
+ "56999","Wyoming (Nonmetropolitan Portion)",7,PAIRPD,1,"...","Implicit regional price deflator","Index",91.502,90.893,91.492,94.989,96.504,97.411,100.354,101.363,102.411,103.287,100.844,102.530,102.492
+"Note: See the included footnote file."
+"PAIRPD: Implicit Regional Price Deflators by Portion "
+"Last updated: December 14, 2021-- new statistics for 2020; revised statistics for 2008-2019."
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"
