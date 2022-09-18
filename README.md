@@ -14,8 +14,6 @@ Cities that produce greater numbers of tenure-track faculty relative to students
 
 **published version available soon**
 
-.. code:: bibtex
-
     @article{sainburg2022postdoc,
         author = {Sainburg, Tim},
         title = {American postdoctoral salaries do not account for growing disparities in cost of living},
